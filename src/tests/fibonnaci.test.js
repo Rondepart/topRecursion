@@ -1,4 +1,4 @@
-import { fibs, fibsRec } from "./recursion.js";
+import { fibs, fibsRec } from "../scripts/fibonnaci.js";
 
 describe.each([
   ["fibs", fibs],
